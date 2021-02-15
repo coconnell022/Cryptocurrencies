@@ -12,7 +12,11 @@ The purpose of this project was to prepare an analysis for Accountability Accoun
 
 After analyzing the data for insights and patterns, it can be concluded that there are **532 tradable cryptocurrencies currently on the market.**
 
-Below are tables and scatter plots that that demonstrate the classifcation and clustering of all 532 tradable cryptocurrencies.
+Below is the elbow curve, table, and scatter plots that that demonstrate the classifcation and clustering of all 532 tradable cryptocurrencies.
+
+### Elbow Curve:
+
+![alt text](https://github.com/coconnell022/Cryptocurrencies/blob/main/Images/Elbow%20Curve.png?raw=true)
 
 ### Table:
 
