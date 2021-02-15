@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this project was to prepare an analysis for Accountability Accounting on the current cryptocurrency market so they can offer a new investment portfolio for their customers. The objective was to determine which cryptocurrencies are currently trading on the market and group them to create a classification system for this new investment. The data set from CryptoCompare was first processed to fit the unsupervised machine learning models and then grouped using a clustering algorithm to visualize the findings with the boarhttp://localhost:8888/edit/Documents/Data%20Boot%20Camp/Module%2018/Cryptocurrencies/README.md#d.
+The purpose of this project was to prepare an analysis for Accountability Accounting on the current cryptocurrency market so they can offer a new investment portfolio for their customers. The objective was to determine which cryptocurrencies are currently trading on the market and group them to create a classification system for this new investment. The data set from CryptoCompare was first processed to fit the unsupervised machine learning models and then grouped using a clustering algorithm to visualize the findings.
 
     Resources
         - Data Sources: crypto_data.csv
