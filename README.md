@@ -10,19 +10,19 @@ The purpose of this project was to prepare an analysis for Accountability Accoun
 
 ## Results and Summary
 
-After analyzing the data for insights and patterns, it can be concluded that there are 532 tradable cryptocurrencies currently on the market.
+After analyzing the data for insights and patterns, it can be concluded that there are **532 tradable cryptocurrencies currently on the market.**
 
 Below are tables and scatter plots that that demonstrate the classifcation and clustering of all 532 tradable cryptocurrencies.
 
-#### Table:
+### Table:
 
 ![alt text](https://github.com/coconnell022/Cryptocurrencies/blob/main/Images/Table.png?raw=true)
 
-#### 3D Scatter Plot:
+### 3D Scatter Plot:
 
 ![alt text](https://github.com/coconnell022/Cryptocurrencies/blob/main/Images/3D%20Plot.png?raw=true)
 
-#### 2D Scatter Plot:
+### 2D Scatter Plot:
 
 ![alt text](https://github.com/coconnell022/Cryptocurrencies/blob/main/Images/2D%20Plot.png?raw=true)
 
