@@ -2,7 +2,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this project was to prepare an analysis for Accountability Accounting on the current cryptocurrency market so they can offer a new investment portfolio for their customers. The objective was to determine which cryptocurrencies are currently trading on the market and group them to create a classification system for this new investment. The data set from CryptoCompare was first processed to fit the unsupervised machine learning models and then grouped using a clustering algorithm to visualize the findings with the board.
+The purpose of this project was to prepare an analysis for Accountability Accounting on the current cryptocurrency market so they can offer a new investment portfolio for their customers. The objective was to determine which cryptocurrencies are currently trading on the market and group them to create a classification system for this new investment. The data set from CryptoCompare was first processed to fit the unsupervised machine learning models and then grouped using a clustering algorithm to visualize the findings with the boarhttp://localhost:8888/edit/Documents/Data%20Boot%20Camp/Module%2018/Cryptocurrencies/README.md#d.
 
     Resources
         - Data Sources: crypto_data.csv
@@ -16,15 +16,15 @@ Below are tables and scatter plots that that demonstrate the classifcation and c
 
 #### Table:
 
-![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier_ICR.png?raw=true)
+![alt text](https://github.com/coconnell022/Cryptocurrencies/blob/main/Images/Table.png?raw=true)
 
 #### 3D Scatter Plot:
 
-![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier_ICR.png?raw=true)
+![alt text](https://github.com/coconnell022/Cryptocurrencies/blob/main/Images/3D%20Plot.png?raw=true)
 
 #### 2D Scatter Plot:
 
-![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier_ICR.png?raw=true)
+![alt text](https://github.com/coconnell022/Cryptocurrencies/blob/main/Images/2D%20Plot.png?raw=true)
 
 
         Caroline O'Connell
